@@ -180,7 +180,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup1"
         "ProductCode" = "8:{0ABE743E-6205-4A20-B0C7-A68F2745D16D}"
-        "PackageCode" = "8:{537CE729-846E-4EF6-A371-68CE76648B5E}"
+        "PackageCode" = "8:{B29841F5-BA5C-48B0-9944-A388E28400A0}"
         "UpgradeCode" = "8:{E0CFEC00-5CB0-431D-98EE-156A210FA73E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -300,6 +300,20 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_590D3F201ACB42C7A30E7D187E0FA4DF"
+            {
+            "Name" = "8:Soft_D"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_9E3B576449D84BF78AC25C16F8DE8FB9"
+            "Folder" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
+            "WorkingFolder" = "8:_14F704293A2B47C7821E2DC947AAAF0D"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_592B5061A8FA49599849AC898D2D4A91"
             {
             "Name" = "8:Soft_D"
@@ -311,34 +325,6 @@
             "Target" = "8:_9E3B576449D84BF78AC25C16F8DE8FB9"
             "Folder" = "8:_E0C7EDA7BFA54DEAA96DA08D3414B36E"
             "WorkingFolder" = "8:_14F704293A2B47C7821E2DC947AAAF0D"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_83110BEBA9D44F62B4019905EFD4EFCB"
-            {
-            "Name" = "8:Shortcut to G Group"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
-            "Folder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
-            "WorkingFolder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_EECC87E302EE47AA9B0DD4E04C7E9B14"
-            {
-            "Name" = "8:Soft_D"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
-            "Folder" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
-            "WorkingFolder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
             "Icon" = "8:"
             "Feature" = "8:"
             }
