@@ -1,0 +1,15 @@
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe.config
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\bin\Debug\WpfApp15.pdb
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\MainWindow.baml
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.g.resources
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.Properties.Resources.resources
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.GenerateResource.cache
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.exe
+C:\Users\Enin\RiderProjects\WpfApp15\WpfApp15\obj\Debug\WpfApp15.pdb

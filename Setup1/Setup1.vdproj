@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_88F63C7AC3F74D4AA87B84BC73DD80D8"
+        "MsmKey" = "8:_9E3B576449D84BF78AC25C16F8DE8FB9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_88F63C7AC3F74D4AA87B84BC73DD80D8"
+        "OwnerKey" = "8:_9E3B576449D84BF78AC25C16F8DE8FB9"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -50,6 +50,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -134,7 +142,7 @@
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
                     {
                     "Name" = "8:G Group"
-                    "AlwaysCreate" = "11:FALSE"
+                    "AlwaysCreate" = "11:TRUE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
                     "Property" = "8:_CF4451D2BFB148379B850C1F7B835E0C"
@@ -172,7 +180,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup1"
         "ProductCode" = "8:{0ABE743E-6205-4A20-B0C7-A68F2745D16D}"
-        "PackageCode" = "8:{F97FF89B-F2AD-4FC2-B281-9A581B8C539E}"
+        "PackageCode" = "8:{537CE729-846E-4EF6-A371-68CE76648B5E}"
         "UpgradeCode" = "8:{E0CFEC00-5CB0-431D-98EE-156A210FA73E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -292,17 +300,31 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5263CA17D5604D25B29DB9A50C8BAD6C"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_592B5061A8FA49599849AC898D2D4A91"
             {
-            "Name" = "8:Shortcut to User's Desktop"
+            "Name" = "8:Soft_D"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_E0C7EDA7BFA54DEAA96DA08D3414B36E"
+            "Target" = "8:_9E3B576449D84BF78AC25C16F8DE8FB9"
             "Folder" = "8:_E0C7EDA7BFA54DEAA96DA08D3414B36E"
-            "WorkingFolder" = "8:_E0C7EDA7BFA54DEAA96DA08D3414B36E"
+            "WorkingFolder" = "8:_14F704293A2B47C7821E2DC947AAAF0D"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_83110BEBA9D44F62B4019905EFD4EFCB"
+            {
+            "Name" = "8:Shortcut to G Group"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
+            "Folder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
+            "WorkingFolder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
             "Icon" = "8:"
             "Feature" = "8:"
             }
@@ -315,7 +337,7 @@
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
             "Target" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
-            "Folder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
+            "Folder" = "8:_26BE5ACF1BEE45E6A3A3DEBE6C258906"
             "WorkingFolder" = "8:_BC792A372CFB4407B9E83A3C0433EF63"
             "Icon" = "8:"
             "Feature" = "8:"
@@ -719,7 +741,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_88F63C7AC3F74D4AA87B84BC73DD80D8"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9E3B576449D84BF78AC25C16F8DE8FB9"
             {
             "SourcePath" = "8:..\\WpfApp15\\obj\\Debug\\WpfApp15.exe"
             "TargetName" = "8:"
